@@ -1,0 +1,9 @@
+#certifications ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#certifications li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
